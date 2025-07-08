@@ -1,0 +1,10 @@
+{
+  "name": "desafios-logicos",
+  "version": "1.0.0",
+  "main": "desafios.js",
+  "scripts": {
+    "start": "node desafios.js"
+  },
+  "author": "Adriano Silva",
+  "license": "MIT"
+}
