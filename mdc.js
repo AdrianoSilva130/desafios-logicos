@@ -6,3 +6,4 @@ function calcularMDC(a, b) {
 }
 
 console.log("MDC de 24 e 36:", calcularMDC(24, 36));
+console.log("MDC de 52 e 32:", calcularMDC(52, 32));
