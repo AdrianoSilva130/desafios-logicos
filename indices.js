@@ -1,4 +1,4 @@
-function indicesMaiorMenor(arr) {
+export function indicesMaiorMenor(arr) {
   if (arr.length === 0) return null;
 
   let [indiceMaior, indiceMenor] = [0, 0];
