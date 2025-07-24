@@ -2,9 +2,14 @@
   "name": "desafios-logicos",
   "version": "1.0.0",
   "main": "desafios.js",
+  "type": "module",
   "scripts": {
-    "start": "node desafios.js"
+    "start": "node desafios.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "author": "Adriano Silva",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+  "jest": "^29.7.0"
+  }
 }
