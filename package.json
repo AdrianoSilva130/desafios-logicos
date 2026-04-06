@@ -10,6 +10,7 @@
   "author": "Adriano Silva",
   "license": "MIT",
   "devDependencies": {
-  "jest": "^29.7.0"
+    "cypress": "^14.5.4",
+    "jest": "^29.7.0"
   }
 }
